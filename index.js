@@ -30,9 +30,9 @@ client.on('ready', async () => {
     .setName('DeliriumHD')
     .setDetails(`One night Stand `)
     .setStartTimestamp(Date.now())
-    .setAssetsLargeImage('https://pic.in.th/image/ezgif-6-87e23df9ab.lWVRYW') //You can put links in tenor or discord and etc.
+    .setAssetsLargeImage('https://media.discordapp.net/attachments/458516662786981910/1241411323158462495/ezgif-6-87e23df9ab.gif?ex=664a19e3&is=6648c863&hm=52a9cb4ca89931dd311db9edf1bdab4667642190b3cae57771d565634afeabb5&=') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('BDSM') //Text when you hover the Large image
-    .setAssetsSmallImage('https://pic.in.th/image/sakura-leaves.lWW2R4') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/458516662786981910/1241411197090271342/sakura-leaves.gif?ex=664a19c5&is=6648c845&hm=03312b3dab7422447e54f66e5e3e2685cad094a2daa8881a6066ea5884303f64&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('DOM') //Text when you hover the Small image
     .addButton('Instagram', 'https://www.instagram.com/deliriumhd/')
 
