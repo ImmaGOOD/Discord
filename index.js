@@ -32,7 +32,7 @@ client.on('ready', async () => {
     .setStartTimestamp(Date.now())
     .setAssetsLargeImage('https://media.discordapp.net/attachments/458516662786981910/1241411323158462495/ezgif-6-87e23df9ab.gif?ex=664a19e3&is=6648c863&hm=52a9cb4ca89931dd311db9edf1bdab4667642190b3cae57771d565634afeabb5&=') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('BDSM') //Text when you hover the Large image
-    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/458516662786981910/1241411197090271342/sakura-leaves.gif?ex=664a19c5&is=6648c845&hm=03312b3dab7422447e54f66e5e3e2685cad094a2daa8881a6066ea5884303f64&') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://media.discordapp.net/attachments/458516662786981910/1241412313530236928/0e731764c019a7965e5574bf70946e06.gif?ex=664a1acf&is=6648c94f&hm=771f26f96b0469ad9f5bd29bd3b888d64c1c2b248fab1381a90f25aac9e8bbb4&=') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('DOM') //Text when you hover the Small image
     .addButton('Instagram', 'https://www.instagram.com/deliriumhd/')
 
