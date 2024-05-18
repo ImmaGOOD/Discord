@@ -32,8 +32,8 @@ client.on('ready', async () => {
     .setStartTimestamp(Date.now())
     .setAssetsLargeImage('https://media.discordapp.net/attachments/458516662786981910/1241411323158462495/ezgif-6-87e23df9ab.gif?ex=664a19e3&is=6648c863&hm=52a9cb4ca89931dd311db9edf1bdab4667642190b3cae57771d565634afeabb5&=') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('BDSM') //Text when you hover the Large image
-    .setAssetsSmallImage('https://media.discordapp.net/attachments/458516662786981910/1241412313530236928/0e731764c019a7965e5574bf70946e06.gif?ex=664a1acf&is=6648c94f&hm=771f26f96b0469ad9f5bd29bd3b888d64c1c2b248fab1381a90f25aac9e8bbb4&=') //You can put links in tenor or discord and etc.
-    .setAssetsSmallText('DOM') //Text when you hover the Small image
+    .setAssetsSmallImage('https://media.discordapp.net/attachments/458516662786981910/1241413206786969720/1ba797fd454ccc27a3d9de6e232ec3b8aa47e8d9.gif?ex=664a1ba4&is=6648ca24&hm=bb6d99ea882c2ae21dd2b1a3dd171c18612d4d2c9ac9c8b693d0d5c2299e8c21&=') //You can put links in tenor or discord and etc.
+    .setAssetsSmallText('FWB') //Text when you hover the Small image
     .addButton('Instagram', 'https://www.instagram.com/deliriumhd/')
 
 
